@@ -1,4 +1,4 @@
-from crop import *
+from cropV2 import *
 
 
 class Wheat(Crop):
