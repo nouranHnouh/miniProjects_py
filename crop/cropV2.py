@@ -87,8 +87,9 @@ def manual_grow(crop):
 			else:
 				print("value enetered not valid, enter value between (1-10)")
 		except ValueError:
-			rint("value enetered not valid, enter value between (1-10)")
-
+			print("value enetered not valid, enter value between (1-10)")
+	grow(light,water)
+  
 #display the menu
 def display_menu():
 	print("1. Grow manually over 1 day")
