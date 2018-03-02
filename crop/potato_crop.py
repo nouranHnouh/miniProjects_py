@@ -1,4 +1,4 @@
-from cropV2 import *
+from crop import *
 
 
 class Potato(Crop):
