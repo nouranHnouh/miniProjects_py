@@ -1,1 +1,1 @@
-mini_projects I did it using python
+mini_projects I did them using python
